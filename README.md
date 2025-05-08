@@ -11,13 +11,15 @@
 Приложить решение задания.
 
 ## Задача 2. 
-Применить CSS к тексту:
+К данному тексту приложить картинку (https://netology-code.github.io/html-2-homeworks/content-tags/montreal-illustration/img/220px-St.JamesSt.-Montreal_-1910.jpg):
 
+![68747470733a2f2f6e65746f6c6f67792d636f64652e6769746875622e696f2f68746d6c2d322d686f6d65776f726b732f736f75726365732f312d322f6d6f6e747265616c2d7461736b2e6a7067](https://github.com/user-attachments/assets/9708a24d-8131-4634-99d5-0a55dc24c0b1)
 
-чтобы получить результат:
+чтобы получить результат как на макете:
 
+![68747470733a2f2f6e65746f6c6f67792d636f64652e6769746875622e696f2f68746d6c2d322d686f6d65776f726b732f736f75726365732f312d322f6d6f6e747265616c2d726573756c742e6a7067](https://github.com/user-attachments/assets/3c7158bb-d29d-4128-baed-e2c6e56834e0)
 
-Приложить скриншот выполненного задания.
+Приложить решение задания.
 
 ## Задача 3. 
 Применить HTML и CSS к тексту:
